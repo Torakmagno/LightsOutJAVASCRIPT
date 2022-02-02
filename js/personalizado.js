@@ -1,4 +1,4 @@
-// Leer los parámetros
+// Leer los parámetros.
 
 const url = new URL(window.location); // http://localhost:5500/personalizado.html?nivel=P&filas=12&columnas=12&luces=34
 
